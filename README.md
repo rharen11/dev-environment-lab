@@ -1,4 +1,4 @@
-![VS Code File Explorer](https://i.imgur.com/Uwhza6h.jpg)
+![VS Code File Explorer](https://i.imgur.com/l7hpb2V.png)
 
 # dev-environment-lab
 
